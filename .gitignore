@@ -1,0 +1,17 @@
+## .NET
+bin/
+obj/
+*.user
+*.db
+*.db-shm
+*.db-wal
+
+## VS / Rider
+.vs/
+.idea/
+*.suo
+*.userprefs
+
+## Logs
+logs/
+*.log
